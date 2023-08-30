@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb5d410f-0a00-481f-a34d-7222b6fdc347" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_28.Positivity/src/main/java/Positivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_28.Positivity/src/main/java/Positivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_29.Adulthood/src/main/java/Adulthood.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_29.Adulthood/src/main/java/Adulthood.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_30.LargerThanOrEqualTo/src/main/java/LargerThanOrEqualTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_30.LargerThanOrEqualTo/src/main/java/LargerThanOrEqualTo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01-Part01_31.GradesAndPoints/src/main/java/GradesAndPoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/part01-Part01_31.GradesAndPoints/src/main/java/GradesAndPoints.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2UYF6RJ5gM00cPOcmP51VZ5myLR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Nigruto/Documents/NetBeansProjects/mooc-java-programming-i&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb5d410f-0a00-481f-a34d-7222b6fdc347" name="Changes" comment="" />
+      <created>1693108431422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693108431422</updated>
+    </task>
+    <servers />
+  </component>
+</project>
