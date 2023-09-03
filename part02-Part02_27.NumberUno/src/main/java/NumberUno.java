@@ -7,5 +7,9 @@ public class NumberUno {
         Scanner scanner = new Scanner(System.in);
 
     }
+    public static int numberUno(){
+        int value = 1;
+        return value;
+    }
 
 }
