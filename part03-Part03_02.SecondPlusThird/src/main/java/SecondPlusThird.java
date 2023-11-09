@@ -16,7 +16,13 @@ public class SecondPlusThird {
             
             numbers.add(number);
         }
+        
+        int sum = 0;
+        if (numbers.size() >= 3){
+            sum = numbers.get(1) + numbers.get(2);
+            System.out.println(sum);
+        }
 
-        System.out.println(luvut.get(0));
+        System.out.println(sum);
     }
 }
