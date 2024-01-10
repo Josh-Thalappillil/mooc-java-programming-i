@@ -16,6 +16,6 @@ public class RememberTheseNumbers {
 
             numbers.add(luku);
         }
-
+        System.out.println(numbers);
     }
 }

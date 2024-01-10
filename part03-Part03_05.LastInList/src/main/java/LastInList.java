@@ -16,6 +16,8 @@ public class LastInList {
 
             list.add(input);
         }
+        int listSize = (list.size()) - 1;
+        System.out.println(list.get(listSize));
 
     }
 }
